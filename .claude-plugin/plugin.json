@@ -1,0 +1,9 @@
+{
+  "name": "gh-cli",
+  "version": "1.6.0",
+  "description": "Intercepts GitHub URL fetches and curl/wget commands, redirecting to the authenticated gh CLI.",
+  "author": {
+    "name": "jojocorse2b",
+    "url": "https://github.com/jojocorse2b"
+  }
+}
